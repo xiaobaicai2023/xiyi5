@@ -26,7 +26,13 @@ java后台技术springboot+jpa+mysql
 ![11](https://github.com/user-attachments/assets/87418d79-8242-4f5c-a902-2a17a55f40da)
 ![12](https://github.com/user-attachments/assets/4e9f0e58-ecfd-489e-bf79-ae2540b4d070)
 ![13](https://github.com/user-attachments/assets/b5b475aa-f6a9-45f7-810f-10d5f16a6113)
-![xiaomage](https://github.com/user-attachments/assets/941930de-7701-4f1d-bd96-36240fb59108)
+
+# 产品体验
+
+如果你对本项目感兴趣，项目合作、体验请联系微信
+
+![wx](https://github.com/user-attachments/assets/e7d4d294-04b8-4d5b-a21a-a9704d7b2100)
+
 
 
 
